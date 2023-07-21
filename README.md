@@ -221,14 +221,3 @@ void OnDeinit (const int reason){
 | :---                            |     :---                         |     :---                                  |          ---:     |
 | Bullish Engulfing on D/W/Mo     | Reach engulf. conterminous line  | Value is negative and below a threshold.  | Open BUY trade.   |
 | Bearish Engulfing on D/W/Mo     | Reach engulf. conterminous line  | Value is posative and above a threshold.  | Open SELL trade.  |
-
-
-<h2>7. Credits</h2>
-<p>I can't credit anyone directly, but this section seems appropriate because I owe special thanks to so many course & content creators, chanels, youtubers.</p>
-<p>1. MQL4 Programming. Visit https://www.youtube.com/channel/UCIuhfiM34b2P8qv_HX_uwug/featured </p>
-<p>2. ForexBoat Team. Check out https://www.udemy.com/course/learn-mql4/ </p> 
-<p>These guys create amazing content and I have learned so much from them!</p>
-
-<h2>8. License</h2>
-<p>Feel free to use this project for yourself. Or to edit it, use bits of it. Do not commercialize it!
-My Candlestick-Pattern-Scanner project is licensed under the GNU AGPLv3 license. Check out the licence link to better understand what you can and cannot do with this code. </p>
