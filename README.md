@@ -1,4 +1,4 @@
-# Candlestick-Pattern-Scanner
+# Candlestick-Pattern-Scanner with AI
 The Candlestick Pattern Scanner is a utility class that helps Expert Advisors and trading bots to efficiently detect reversal candle patterns. These special patterns can be used as potential indications of trend-reversals, especially in conjunction with other events, indicators and signals.
 
 <p align="left" dir="auto">
